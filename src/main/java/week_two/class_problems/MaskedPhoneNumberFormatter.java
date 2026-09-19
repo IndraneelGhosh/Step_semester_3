@@ -1,4 +1,4 @@
-package week_three.class_problems;
+package week_two.class_problems;
 
 import java.util.Scanner;
 
